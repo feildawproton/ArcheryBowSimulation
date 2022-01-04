@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 from sim_funcs import *
 from bow import create_bow
 
+#testing
+
 def draw_bow(model, x_step = .01, force_step = 0.001, max_opt_iter = 1000):
 	# -- CONSTANT --
 	T_top_local		= get_local_trans(model["P_top_global_unbraced"])
