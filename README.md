@@ -3,7 +3,7 @@ Simulation of the brace, draw, and dynamic release phases of the traditional bow
 
 To run the simulation, simply execute brace_draw.py.
 
-Introduction
+# Introduction
 Archery is ancient and the bow and arrow may humanity’s oldest elastic stored-energy tool. Traditional bows have been designed through trial and error, adaptations of traditions, and the needs of food and conflict.  The many traditional designs over the world reflect this.  There are reasons archers may be interested in efficient and powerful bows.  These may be curiosity, hunting, competition, and aesthetics.
 The main kinds of bow design are primitive, historical, traditional, and modern.  Primitive bows were those made by pre-agricultural man.  In modern times, making primitive bows can be a survival skill; sometimes bowyers restrict themselves to primitive tools.  Historical bows are strictly historical finds or attempts to recreate them.  Modern bows are designed for modern application, be that sport or hunting.  
 Traditional bows are the largest category.  The term covers primitive bows to laminated recurve bows, and typically means anything before the invention of the compound bow.  The materials used for some laminated bows may require a post-industrial society, but the designs are typically thought to be doable with more primitive and natural materials.  Perhaps the most notable feature of traditional archery, is that the archer is forgoing tools that are objectively superior for their task.  The reasons for this may be aesthetic or a desire to connect to a more primitive human experience.     
