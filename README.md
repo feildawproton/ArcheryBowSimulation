@@ -1,5 +1,5 @@
 # ArcheryBowSimulation
-Simulation of the brace, draw, and dynamic release phases of the traditional bow.
+Simulation of the brace, draw, and dynamic release phases of the traditional bow. 2021 form MA8203.
 
 To run the simulation, simply execute brace_draw.py.
 
